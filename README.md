@@ -173,4 +173,4 @@ AGENTS.md   every quirk we hit today, with the fix
 
 ## Credits
 
-Built by Rakesh at the Gemini 4 Argon SF Hackathon (Cerebral Valley and Google DeepMind), Oct 25, 2026. Map data and 3D tiles: Google. Generated assets: Gemini (Nano Banana 2.1, Lyria), Higgsfield (GPT Image 2.5, Hunyuan3D, Seedance 2.5).
+Built by Shashank and Rakesh at the Gemini 4 Argon SF Hackathon (Cerebral Valley and Google DeepMind), Oct 25, 2026. Map data and 3D tiles: Google. Generated assets: Gemini (Nano Banana 2.1, Lyria), Higgsfield (GPT Image 2.5, Hunyuan3D, Seedance 2.5).
